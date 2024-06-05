@@ -1,0 +1,5 @@
+﻿CREATE TABLE [dbo].[Pokemon] (
+    [Id] UNIQUEIDENTIFIER NOT NULL,
+    CONSTRAINT [PK_Pokemon] PRIMARY KEY CLUSTERED ([Id] ASC)
+);
+
