@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Pokemon",
+    "\\Pokemon\\Abstracciones"
   ],
+  "SelectedNode": "\\Pokemon\\Abstracciones",
   "PreviewInSolutionExplorer": false
 }
