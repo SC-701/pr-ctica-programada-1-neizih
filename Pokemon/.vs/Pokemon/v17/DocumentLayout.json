@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\5247\\Documents\\u\\progavanzada\\practica\\pr-ctica-programada-1-neizih\\Pokemon\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8876F153-929E-4A94-8CD9-2672B0AFE464}|BW\\BW.csproj|c:\\users\\5247\\documents\\u\\progavanzada\\practica\\pr-ctica-programada-1-neizih\\pokemon\\bw\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8876F153-929E-4A94-8CD9-2672B0AFE464}|BW\\BW.csproj|solutionrelative:bw\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\5247\\Documents\\u\\progavanzada\\practica\\pr-ctica-programada-1-neizih\\Pokemon\\BW\\Class1.cs",
+              "RelativeDocumentMoniker": "BW\\Class1.cs",
+              "ToolTip": "C:\\Users\\5247\\Documents\\u\\progavanzada\\practica\\pr-ctica-programada-1-neizih\\Pokemon\\BW\\Class1.cs",
+              "RelativeToolTip": "BW\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T23:17:35.825Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

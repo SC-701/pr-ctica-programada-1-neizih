@@ -1,0 +1,10 @@
+C:\Users\5247\Documents\u\progavanzada\practica\pr-ctica-programada-1-neizih\Pokemon\BaseDatos\bin\Debug\BaseDatos.dacpac
+C:\Users\5247\Documents\u\progavanzada\practica\pr-ctica-programada-1-neizih\Pokemon\BaseDatos\bin\Debug\BaseDatos.dll
+C:\Users\5247\Documents\u\progavanzada\practica\pr-ctica-programada-1-neizih\Pokemon\BaseDatos\bin\Debug\BaseDatos.pdb
+C:\Users\5247\Documents\u\progavanzada\practica\pr-ctica-programada-1-neizih\Pokemon\BaseDatos\obj\Debug\BaseDatos.sqlproj.AssemblyReference.cache
+C:\Users\5247\Documents\u\progavanzada\practica\pr-ctica-programada-1-neizih\Pokemon\BaseDatos\obj\Debug\Model.xml
+C:\Users\5247\Documents\u\progavanzada\practica\pr-ctica-programada-1-neizih\Pokemon\BaseDatos\obj\Debug\refactor.xml
+C:\Users\5247\Documents\u\progavanzada\practica\pr-ctica-programada-1-neizih\Pokemon\BaseDatos\obj\Debug\postdeploy.sql
+C:\Users\5247\Documents\u\progavanzada\practica\pr-ctica-programada-1-neizih\Pokemon\BaseDatos\obj\Debug\predeploy.sql
+C:\Users\5247\Documents\u\progavanzada\practica\pr-ctica-programada-1-neizih\Pokemon\BaseDatos\obj\Debug\BaseDatos.dll
+C:\Users\5247\Documents\u\progavanzada\practica\pr-ctica-programada-1-neizih\Pokemon\BaseDatos\obj\Debug\BaseDatos.pdb

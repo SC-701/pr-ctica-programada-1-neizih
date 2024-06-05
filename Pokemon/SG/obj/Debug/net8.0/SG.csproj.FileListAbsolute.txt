@@ -1,0 +1,12 @@
+C:\Users\5247\Documents\u\progavanzada\practica\pr-ctica-programada-1-neizih\Pokemon\SG\bin\Debug\net8.0\SG.deps.json
+C:\Users\5247\Documents\u\progavanzada\practica\pr-ctica-programada-1-neizih\Pokemon\SG\bin\Debug\net8.0\SG.dll
+C:\Users\5247\Documents\u\progavanzada\practica\pr-ctica-programada-1-neizih\Pokemon\SG\bin\Debug\net8.0\SG.pdb
+C:\Users\5247\Documents\u\progavanzada\practica\pr-ctica-programada-1-neizih\Pokemon\SG\obj\Debug\net8.0\SG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\5247\Documents\u\progavanzada\practica\pr-ctica-programada-1-neizih\Pokemon\SG\obj\Debug\net8.0\SG.AssemblyInfoInputs.cache
+C:\Users\5247\Documents\u\progavanzada\practica\pr-ctica-programada-1-neizih\Pokemon\SG\obj\Debug\net8.0\SG.AssemblyInfo.cs
+C:\Users\5247\Documents\u\progavanzada\practica\pr-ctica-programada-1-neizih\Pokemon\SG\obj\Debug\net8.0\SG.csproj.CoreCompileInputs.cache
+C:\Users\5247\Documents\u\progavanzada\practica\pr-ctica-programada-1-neizih\Pokemon\SG\obj\Debug\net8.0\SG.sourcelink.json
+C:\Users\5247\Documents\u\progavanzada\practica\pr-ctica-programada-1-neizih\Pokemon\SG\obj\Debug\net8.0\SG.dll
+C:\Users\5247\Documents\u\progavanzada\practica\pr-ctica-programada-1-neizih\Pokemon\SG\obj\Debug\net8.0\refint\SG.dll
+C:\Users\5247\Documents\u\progavanzada\practica\pr-ctica-programada-1-neizih\Pokemon\SG\obj\Debug\net8.0\SG.pdb
+C:\Users\5247\Documents\u\progavanzada\practica\pr-ctica-programada-1-neizih\Pokemon\SG\obj\Debug\net8.0\ref\SG.dll
